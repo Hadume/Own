@@ -175,7 +175,7 @@
 		"mcfunction"
 	],
 	"diffEditor.ignoreTrimWhitespace": false,
-	"editor.insertSpaces": false,
+	"editor.insertSpaces": true,
 	"editor.suggest.showWords": false,
 	"files.trimTrailingWhitespace": true,
 	"grunt.autoDetect": "on",
